@@ -2,3 +2,10 @@ title: Custom Template
 plan:
 - title: Welcome
   statement: markdowns/welcome.md
+- title: The iterative way
+  statement: markdowns/iterative.md
+- title: A first recursive way
+  statement: markdowns/recursive.md
+- title: Tail-recursive solution
+  statement: markdowns/tail.md
+
